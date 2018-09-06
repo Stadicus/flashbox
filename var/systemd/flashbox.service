@@ -1,0 +1,14 @@
+[Unit]
+Description=Lightning FlashBox program
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/flashbox/
+ExecStart=/root/flashbox/flashbox.py
+StandardOutput=syslog
+StandardError=syslog
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
