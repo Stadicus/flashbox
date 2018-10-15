@@ -3,6 +3,10 @@ Flashbox: Tweet your digital polaroid souvenir, pay with Lightning
 
 > Barebone initial description more comprehensive information incl. hardware setup is in the making. 
 
+In my setup, all pictures are tweeted on the **Faces of Lightning** ([@faceslightning](https://twitter.com/FacesLightning)) Twitter profile. 
+
+![Flashbox front & back photo](img/FacesLightning.png)
+
 ## Motivation
 Use case: Put up a photobox at events or public locations to allow your audience to take a digital polaroid souvenir, pay a small fee, tweet it automatically and make your event hashtag trending. 
 
