@@ -34,7 +34,10 @@ There are additional programs necessary on operating system level:
 * other stuff, will be added soon
 
 ## Working example
-![Example polaroid picture](https://github.com/Stadicus/flashbox/raw/master/photos/polaroid-example.jpg)
+![Tweet your Lightning picture](slideshow/lego.png) ![Create invoice](img/creating-invoice.png) ![Smile](img/smile.jpg) ![Create invoice](img/wait-for-picture.jpg) 
+
+### Et voilà!
+![Example polaroid picture](photos/polaroid-example.jpg)
 
 ## Source code
 The lighting integration is amazingly simple, both for API and on-device lightning. Most of the code is picture processing.
